@@ -1,4 +1,4 @@
-Hi there, I'm Md MANSAB aKHTER! 👋
+Hi there, I'm Md MANSAB AKHTER! 👋
 🚀 About Me
 💻 Web Developer | Frontend Enthusiast
 🎓 Currently learning: Python, JavaScript, React, etc.
